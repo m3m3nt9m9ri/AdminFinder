@@ -5,8 +5,9 @@ import sys
 import os
 
 
-
-os.system("pip3 install requests termcolor")
+os.system("pip3 install colored")
+os.system("pip3 install termcolor")
+os.system("pip3 install requests ")
 os.system("clear")
 print( """
 
